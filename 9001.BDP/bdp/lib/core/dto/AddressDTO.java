@@ -1,6 +1,6 @@
 package lib.core.dto;
 
-public class Address {
+public class AddressDTO {
 	private String id;
 	private String street;
 	private String district;
